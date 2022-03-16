@@ -1,7 +1,7 @@
 <h2 align="center"> Everblush fzf </h2> 
 
 ## Preview 
-
+![image](https://user-images.githubusercontent.com/59060246/158614947-99ac4bd5-d9d4-4c01-86ed-2f87bbf3913f.png)
 
 ## Installation 
 
